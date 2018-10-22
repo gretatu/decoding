@@ -2,5 +2,6 @@
 # Directories
 data/logs/*
 data/ASR/*
+SVM_savemodel/*
 .idea
 
